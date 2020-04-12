@@ -1,0 +1,7 @@
+README.md
+setup.py
+gym_sourcing.egg-info/PKG-INFO
+gym_sourcing.egg-info/SOURCES.txt
+gym_sourcing.egg-info/dependency_links.txt
+gym_sourcing.egg-info/requires.txt
+gym_sourcing.egg-info/top_level.txt
